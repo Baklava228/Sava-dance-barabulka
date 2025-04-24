@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>История о Овчинников Савелии</title>
+  <style>
+    body {
+      background-color: white;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header, section, footer {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .gallery img {
+      width: 100%;
+      max-width: 400px;
+      display: block;
+      margin: 10px auto;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>История о Овчинников Савелии</h1>
+    <p>Как 12-летний Сава станцевал лесгинку под «Барабульку» и покорил сердца зрителей.</p>
+  </header>
+
+  <section>
+    <h2>История</h2>
+    <p>Это случилось на одном из праздников. Маленький, но уверенный в себе Сава, всего 12 лет от роду, вышел на сцену. Заиграла задорная песня Вовы Солодкова «Барабулька», и мальчик начал зажигательно танцевать лесгинку. Каждый его шаг был полон энергии, а лицо — радости. Публика аплодировала, смеясь и поддерживая юного танцора. Это был незабываемый момент!</p>
+  </section>
+
+  <section class="gallery">
+    <h2>Галерея</h2>
+    <img src="https://via.placeholder.com/400x300?text=Сава+танцует" alt="Сава танцует">
+    <img src="https://via.placeholder.com/400x300?text=Аплодисменты" alt="Аплодисменты">
+  </section>
+
+  <footer>
+    <h2>Контакты</h2>
+    <p>Хотите поделиться впечатлениями или задать вопрос? Напишите нам: <a href="mailto:example@email.com">example@email.com</a></p>
+  </footer>
+
+</body>
+</html>
